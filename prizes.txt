@@ -1,0 +1,19 @@
+JOGO;ZOOM;Amazon;PSN
+The Last Guardian;R$ 130,00;R$149,99;R$ 79,90;
+What Remains of Edith Finch;R$ 999,99;R$ 999,99;R$ 33,40;
+Titanfall 2;R$ 65,09;R$84,90;R$ 99,50;
+Final Fantansy XV;R$ 90,09;R$139,99;R$ 132,90;
+Nier Automata;R$ 153,30;R$ 999,99;R$ 149,90;
+Crash Bandicoot N.Sane Trilogy;R$ 167,29;R$179,89;R$ 179,50;
+Spyro Reignited Trilogy;R$ 90,20;R$96,99;R$ 179,90;
+Far Cry 5;R$ 153,90;R$174,89;R$ 198,90;
+Jedi Fallen Order;R$ 149,90;R$178,13;R$ 238,99;
+Killzone Shadowfall;R$ 69,90;R$ 999,99;R$ 99,50;
+Shadow of Tomb Raider;R$ 121,32;R$172,61;R$ 249,90;
+Dark Souls 3;R$ 105,90;R$ 999,99;R$ 62,49;
+Assassins Creed Valhalla;R$ 231,45;R$ 999,99;R$ 279,90;
+Divinity: Original Sin 2;R$ 189,99;R$ 999,99;R$ 99,99;
+Assassins Creed Unity;R$ 58,59;R$63,99;R$ 99,99;
+Ghost of Tsushima;R$ 199,90;R$228,99;R$ 299,90;
+Mass Effect: Andromeda;R$ 92,99;R$ 999,99;R$ 107,50;
+The Last of Us 2;R$ 199,90;R$228,99;R$ 299,90;
