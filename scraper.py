@@ -72,7 +72,7 @@ url_amazon = [
 ]
 
 names =[
-    "The Last Guardian",
+    "", # "The Last Guardian",
     "What Remains of Edith Finch",
     "Titanfall 2",
     "Final Fantansy XV",
@@ -82,7 +82,7 @@ names =[
     "Far Cry 5",
     "Jedi Fallen Order",
     "Killzone Shadowfall",
-    "Shadow of Tomb Raider",
+    "", # "Shadow of Tomb Raider",
     "Dark Souls 3",
     "Assassins Creed Valhalla",
     "Divinity: Original Sin 2",
