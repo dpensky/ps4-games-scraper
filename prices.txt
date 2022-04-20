@@ -1,13 +1,12 @@
 JOGO;ZOOM;Amazon;PSN
-What Remains of Edith Finch;-----;-----;R$ 83,50;
-Titanfall 2;R$ 79,88;R$ 89,90;R$ 99,50;
-Final Fantansy XV;R$ 104,99;-----;R$ 132,90;
-Nier Automata;R$ 199,00;R$ 199,00;R$ 149,90;
-Crash Bandicoot N.Sane Trilogy;R$ 169,92;R$ 199,90;R$ 179,50;
-Spyro Reignited Trilogy;R$ 99,90;-----;R$ 179,90;
-Far Cry 5;R$ 147,16;R$ 164,89;R$ 198,90;
-Jedi Fallen Order;-----;-----;R$ 298,90;
-Killzone Shadowfall;-----;-----;R$ 49,75;
-Dark Souls 3;-----;-----;R$ 249,99;
-Assassins Creed Valhalla;R$ 199,99;-----;R$ 279,90;
-Divinity: Original Sin 2;R$ 193,50;R$ 249,00;R$ 82,49;
+What Remains of Edith Finch;-----;-----;R$ 25,05;
+Titanfall 2;R$ 71,89;-----;R$ 99,50;
+Final Fantansy XV;R$ 106,25;-----;R$ 132,90;
+Nier Automata;R$ 255,39;-----;R$ 149,90;
+Crash Bandicoot N.Sane Trilogy;R$ 272,79;-----;R$ 179,50;
+Spyro Reignited Trilogy;R$ 144,39;-----;R$ 179,90;
+Far Cry 5;R$ 119,90;-----;R$ 49,72;
+Jedi Fallen Order;R$ 159,99;-----;R$ 104,61;
+Killzone Shadowfall;R$ 238,89;-----;R$ 99,50;
+Assassins Creed Valhalla;R$ 185,90;-----;R$ 279,90;
+Divinity: Original Sin 2;R$ 224,00;-----;R$ 99,99;
